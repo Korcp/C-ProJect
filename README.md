@@ -24,3 +24,24 @@
 <h4>메인화면Update</h4>
 <br>
 <img width="758" alt="업데이트" src="https://github.com/Korcp/C-ProJect/assets/48702154/e40c7f9c-fdea-4bdc-af61-06fc5300b67f">
+<br>
+<h3>판매창&판매내역</h3>
+<img width="755" alt="판매창" src="https://github.com/Korcp/C-ProJect/assets/48702154/e7b4ef15-48ab-4343-8060-8ffea93bdb1c">
+<br>
+<img width="753" alt="판매내역" src="https://github.com/Korcp/C-ProJect/assets/48702154/94507087-6bda-4dda-b7e9-4e22a8a0c5d1">
+<h3>재고량</h3>
+<br>
+<img width="749" alt="재고량" src="https://github.com/Korcp/C-ProJect/assets/48702154/295e0fb9-bc70-4585-8dac-6c5685b87dbe">
+<br>
+<h3>재고량(추가,삭제,수정)</h3>
+<br>
+![재고추가](https://github.com/Korcp/C-ProJect/assets/48702154/ceab8449-13d1-455e-911f-e79c158055c2)
+<br>
+![재고삭제](https://github.com/Korcp/C-ProJect/assets/48702154/15ae4eab-30f3-42d3-933b-76cee1f0664c)
+<br>
+![삭제완료](https://github.com/Korcp/C-ProJect/assets/48702154/40b8af0a-39b6-4290-b5bb-c0b9ecd2f320)
+<br>
+![수정전](https://github.com/Korcp/C-ProJect/assets/48702154/6cef91aa-b062-4656-9e4c-89cefd73b866)
+<br>
+![라디오 수정](https://github.com/Korcp/C-ProJect/assets/48702154/4f17e015-50fc-4851-9da6-f3badd845918)
+<br>
