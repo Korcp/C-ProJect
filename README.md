@@ -35,7 +35,7 @@
 <br>
 <h3>재고량(추가,삭제,수정)</h3>
 <br>
-![재고추가](https://github.com/Korcp/C-ProJect/assets/48702154/ceab8449-13d1-455e-911f-e79c158055c2)
+![재고추가](https://github.com/Korcp/C-ProJect/assets/48702154/e179ed85-c014-48e0-9ae8-8bd9859804d6)
 <br>
 ![재고삭제](https://github.com/Korcp/C-ProJect/assets/48702154/15ae4eab-30f3-42d3-933b-76cee1f0664c)
 <br>
@@ -45,3 +45,10 @@
 <br>
 ![라디오 수정](https://github.com/Korcp/C-ProJect/assets/48702154/4f17e015-50fc-4851-9da6-f3badd845918)
 <br>
+
+<h3>사용한 API</h3> 
+<hr>
+![json](https://github.com/Korcp/C-ProJect/assets/48702154/59ac41d3-d118-4561-ab47-82534cb19f94)
+<br>
+
+업그레이드기능 => (로그인폼,나가기,로그아웃,이용시간,데이터추가,삭제,수정,데이터들 연결,추가한데이터의 값들의핪,계산하기누르면 초기화)
