@@ -9,9 +9,18 @@
 <br>
 <h2>Upgrade</h2>
 <hr>
-<h3>메인화면</h3>
+<h3>로그인화면</h3>
 <hr>
 <img width="763" alt="메인화면" src="https://github.com/Korcp/C-ProJect/assets/48702154/977a79fb-340f-40b3-92c7-8add22d1db52">
 <br>
 <img width="180" alt="로그인성공" src="https://github.com/Korcp/C-ProJect/assets/48702154/4b733241-c478-4840-a7cf-c78d4e04d855">
+<br>
 <img width="269" alt="로그인오류" src="https://github.com/Korcp/C-ProJect/assets/48702154/f8f0b96a-8ac1-412a-a69f-1421fb90ac74">
+<br>
+<h3>메인화면</h3>
+<br>
+<img width="761" alt="메인화면2" src="https://github.com/Korcp/C-ProJect/assets/48702154/63ea8ac3-a547-445e-9e7f-df32f1859206">
+<br>
+<h4>메인화면Update</h4>
+<br>
+<img width="758" alt="업데이트" src="https://github.com/Korcp/C-ProJect/assets/48702154/e40c7f9c-fdea-4bdc-af61-06fc5300b67f">
